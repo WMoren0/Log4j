@@ -1,0 +1,5 @@
+13/01/22 13:38 [main]  INFO br.com.pacote1.MinhaClassePrincipal:23 - Iniciando procedimentos
+13/01/22 13:40 [main]  INFO br.com.log4j.HelloWorld:23 - Iniciando procedimentos
+13/01/22 13:44 [main]  INFO br.com.log4j.HelloWorld:23 - Iniciando procedimentos
+13/01/22 13:44 [main]  INFO br.com.log4j.HelloWorld:23 - Iniciando procedimentos
+13/01/22 13:48:25 INFO [main] (HelloWorld.java:23) - Iniciando procedimentos
